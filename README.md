@@ -11,7 +11,7 @@ A MCP server to access the LinkedIn API through RapidAPI, based on the FastMCP f
 ## Requirements
 
 - Python 3.12 or higher
-- A RapidAPI API key for [LinkedIn Data API](https://rapidapi.com/linkedin-data-api)
+- A RapidAPI API key for [LinkedIn Data API](https://rapidapi.com/rockapis-rockapis-default/api/linkedin-api8)
 - UV (fast Python installer)
 
 ## Installation
